@@ -1,0 +1,13 @@
+Features: 
+	Search: "One way"
+		"Return"
+		"MultiCity"
+		"NOMAD"
+	Booking: "Booking one-way ticket for non-signed user"
+	
+Bugs: I didn't found any bugs, but I think UX for "NOMAD" search feature can be upgraded a little bit. I will attach video called "ux.mp4" which is 3 minutes long and showing what can be changed.
+
+Time spent: "Search" - 3 minutes
+			"Booking" - 2 minutes
+
+Additional notes: I never userd Gherkin before, so I hope I used it correctly. 
